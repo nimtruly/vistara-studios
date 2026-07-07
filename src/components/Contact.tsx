@@ -1,5 +1,6 @@
 "use client";
 
+
 import React from "react";
 import { ArrowUpRight, Mail, Phone, MapPin } from "lucide-react";
 import { FadeIn, StaggerContainer, StaggerItem } from "./Animations";
