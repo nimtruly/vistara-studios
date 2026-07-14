@@ -6,9 +6,9 @@ import { FadeIn, StaggerContainer, StaggerItem } from "./Animations";
 
 const STATS = [
   { numericValue: 150, suffix: "+", label: "PROJECTS COMPLETED" },
-  { numericValue: 15, suffix: "+", label: "AWARDS & HONORS" },
+  { numericValue: 10, suffix: "+", label: "BRANDS" },
   { numericValue: 8, suffix: "+", label: "COUNTRIES FILMED" },
-  { numericValue: 12, suffix: "", label: "CREATIVE PROS" },
+  { numericValue: 10, suffix: "", label: "CREATIVE PROS" },
 ];
 
 const CLIENTS = [

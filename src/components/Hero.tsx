@@ -30,7 +30,7 @@ export default function Hero() {
             className="mb-8"
           >
             <h1 className="text-[12vw] sm:text-[8vw] md:text-[6.5vw] font-extrabold uppercase tracking-[-0.04em] leading-[0.9] text-foreground text-center">
-              VISTARA STUDIOS
+              VISTARA STUDIOZ
             </h1>
             <p className="mt-6 text-sm sm:text-base md:text-lg text-muted-foreground max-w-xl mx-auto font-light tracking-wide">
               Crafting Cinematic Stories. Elevating Brands.

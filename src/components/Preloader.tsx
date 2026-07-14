@@ -51,7 +51,7 @@ export default function Preloader({ onComplete }: PreloaderProps) {
         >
           {/* Top metadata tags */}
           <div className="flex justify-between text-[10px] font-medium tracking-widest text-muted-foreground uppercase">
-            <span>STUDIO CODES: VS-2026</span>
+            <span>STUDIO CODES: 2026</span>
             <span>CINEMATIC VENTURE</span>
           </div>
 
